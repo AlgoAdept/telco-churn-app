@@ -6,7 +6,7 @@ An interactive Streamlit web app that predicts whether a customer is likely to *
 
 ## 🚀 Demo
 
-👉 [Live App on Streamlit Cloud]((https://telco-cust-churn.streamlit.app/))  
+👉 [Live App on Streamlit Cloud]([(https://telco-cust-churn.streamlit.app/)])  
 
 ---
 
